@@ -1,1 +1,0 @@
-- All the sample UiPath projects from 1st June 2022 will be updated here
